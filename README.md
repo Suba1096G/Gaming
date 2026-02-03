@@ -26,14 +26,6 @@ The goal is simple:
 * *CSS3* – Styling & layout
 * *JavaScript (Vanilla JS)* – Game logic
 * *Canvas API* – Rendering graphics
-* 
-## 📁 Project Structure
-EcoHeroWebGame/
-│
-├── index.html     → Main webpage
-├── style.css      → Game styling
-├── script.js      → Game logic
-└── README.md      → Documentation
 
 ## 🎯 Controls
 | Key            | Action         |
